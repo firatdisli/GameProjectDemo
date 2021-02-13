@@ -1,0 +1,13 @@
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\bin\Debug\netcoreapp3.1\GameProjectDemo_Odev5.exe
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\bin\Debug\netcoreapp3.1\GameProjectDemo_Odev5.deps.json
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\bin\Debug\netcoreapp3.1\GameProjectDemo_Odev5.runtimeconfig.json
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\bin\Debug\netcoreapp3.1\GameProjectDemo_Odev5.runtimeconfig.dev.json
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\bin\Debug\netcoreapp3.1\GameProjectDemo_Odev5.dll
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\bin\Debug\netcoreapp3.1\GameProjectDemo_Odev5.pdb
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\obj\Debug\netcoreapp3.1\GameProjectDemo_Odev5.csprojAssemblyReference.cache
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\obj\Debug\netcoreapp3.1\GameProjectDemo_Odev5.AssemblyInfoInputs.cache
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\obj\Debug\netcoreapp3.1\GameProjectDemo_Odev5.AssemblyInfo.cs
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\obj\Debug\netcoreapp3.1\GameProjectDemo_Odev5.csproj.CoreCompileInputs.cache
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\obj\Debug\netcoreapp3.1\GameProjectDemo_Odev5.dll
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\obj\Debug\netcoreapp3.1\GameProjectDemo_Odev5.pdb
+C:\Users\frt\Desktop\kamp\GameProjectDemo_Odev5\GameProjectDemo_Odev5\obj\Debug\netcoreapp3.1\GameProjectDemo_Odev5.genruntimeconfig.cache
